@@ -1,0 +1,28 @@
+{
+  "name": "beml-utils",
+  "version": "1.0.0",
+  "description": "Utility functions for BEML implementations",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenwalker/beml-utils.git"
+  },
+  "keywords": [
+    "beml",
+    "bem"
+  ],
+  "author": "Maxim Poletaev <zenwalker2@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zenwalker/beml-utils/issues"
+  },
+  "homepage": "https://github.com/zenwalker/beml-utils#readme",
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
+}
